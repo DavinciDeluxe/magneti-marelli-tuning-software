@@ -1,0 +1,256 @@
+{
+  "family": "Magneti Marelli (MJD / 8F3 / 9DF / MM)",
+  "slug": "magneti-marelli",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_urls": [
+    "https://www.davincideluxe.fr/magneti-marelli-tuning-software",
+    "https://www.davincideluxe.org/magneti-marelli-tuning-software",
+    "https://www.davincideluxe.app/magneti-marelli-tuning-software",
+    "https://www.davincideluxe.software/magneti-marelli-tuning-software",
+    "https://www.davincideluxe.es/magneti-marelli-tuning-software",
+    "https://www.davincideluxe.de/magneti-marelli-tuning-software",
+    "https://www.davincideluxe.it/magneti-marelli-tuning-software",
+    "https://www.aesoftech.eu/magneti-marelli-tuning-software"
+  ],
+  "matched_variants_count": 188,
+  "brands": {
+    "FIAT": [
+      "8F3.B1",
+      "9DF",
+      "9GF",
+      "IAW4AF",
+      "IAW4SF",
+      "IAW5AF",
+      "IAW5NF",
+      "IAW5SF",
+      "MJ8DF",
+      "MJ8DFH",
+      "MJ8F3",
+      "MJ8F3H",
+      "MJ9DF",
+      "MJ9DFH",
+      "MJD",
+      "MJD6",
+      "MJD6F",
+      "MJD6F3",
+      "MJD6F3HW04P",
+      "MJD6JF",
+      "MJD6JFHW01B.D1",
+      "MJD6O2-3",
+      "MJD8",
+      "MJD8DF",
+      "MJD8F3",
+      "MJD8F3.GH",
+      "MJD9",
+      "MJD9DF",
+      "MM8GMF",
+      "MM8GMK",
+      "MM8GMW",
+      "MM8GSF",
+      "MM8GSW",
+      "MM9GFH"
+    ],
+    "ALFA ROMEO": [
+      "9DF",
+      "9GF",
+      "IAW4AF",
+      "IAW4SF",
+      "IAW5SF",
+      "MJ8DF",
+      "MJ8DF2",
+      "MJ8DFH",
+      "MJ8F3H",
+      "MJ9DF",
+      "MJD6F",
+      "MJD6F3",
+      "MJD6O2-3",
+      "MJD8",
+      "MJD8F2.A3",
+      "MM8GMF",
+      "MM8GMK",
+      "MM9GFH"
+    ],
+    "LANCIA": [
+      "9DF",
+      "9GF",
+      "IAW4AF",
+      "IAW4SF",
+      "IAW5SF",
+      "MJ8DF",
+      "MJ8DFH",
+      "MJ9DF",
+      "MJD6F",
+      "MJD6F3",
+      "MJD6JF",
+      "MJD6O2-3",
+      "MM8GMF",
+      "MM8GSW"
+    ],
+    "JEEP": [
+      "9DF",
+      "9GF",
+      "IAW4AF",
+      "IAW4SF",
+      "IAW5SF",
+      "MJ8DF",
+      "MJ9DF",
+      "MJD6F",
+      "MJD6F3",
+      "MJD6O2-3",
+      "MM8GMF",
+      "MM8GMK",
+      "MM8GML",
+      "MM9GFH"
+    ],
+    "ABARTH": [
+      "9DF",
+      "9GF",
+      "IAW4AF",
+      "IAW4SF",
+      "IAW5SF",
+      "MJD6F3",
+      "MJD6O2-3",
+      "MM8GMF",
+      "MM8GMK"
+    ],
+    "CHRYSLER": [
+      "9DF",
+      "9GF",
+      "IAW4AF",
+      "IAW4SF",
+      "IAW5SF",
+      "MJ8DF",
+      "MJ9DF",
+      "MJD6F",
+      "MJD6F3",
+      "MJD6O2-3",
+      "MM8GMF"
+    ],
+    "RAM": [
+      "9DF",
+      "9GF",
+      "IAW4AF",
+      "IAW4SF",
+      "IAW5SF",
+      "MJ8DF",
+      "MJ9DF",
+      "MJD6F",
+      "MJD6F3",
+      "MJD6O2-3",
+      "MM8GMF"
+    ],
+    "FORD": [
+      "IAW5SF",
+      "MJD6F3"
+    ],
+    "MITSUBISHI": [
+      "MM9O"
+    ],
+    "OPEL": [
+      "MJ8DF",
+      "MJ8F3H",
+      "MJ9DFH",
+      "MJD",
+      "MJD6",
+      "MJD602",
+      "MJD602.A6",
+      "MJD602.C1",
+      "MJD602.M1",
+      "MJD603",
+      "MJD603.S3",
+      "MJD603.SA",
+      "MJD6F3",
+      "MJD6JF",
+      "MJD6O2-3",
+      "MJD6O3.S3",
+      "MJD8DF"
+    ],
+    "CHEVROLET": [
+      "9GF",
+      "MJ8DF",
+      "MJD6F3",
+      "MJD6O2-3"
+    ],
+    "VAUXHALL": [
+      "MJ8DF",
+      "MJD6F3",
+      "MJD6O2-3"
+    ],
+    "PEUGEOT": [
+      "IAW",
+      "IAW48P2",
+      "IAW6",
+      "IAW6LP",
+      "IAW6LP1_A",
+      "IAW6LPB",
+      "MJ8",
+      "MJ8DFH",
+      "MJ8F3H"
+    ],
+    "CITROËN": [
+      "IAW48P",
+      "IAW48P.80",
+      "IAW48P2",
+      "IAW48P2.7H",
+      "IAW6",
+      "IAW6LP",
+      "MJ8",
+      "MJ8F3H"
+    ],
+    "DS": [
+      "IAW48P2",
+      "MJ8"
+    ],
+    "RENAULT": [
+      "IAW5",
+      "IAW5NR"
+    ],
+    "SUZUKI": [
+      "MJD6",
+      "MJD602",
+      "MJD6JO",
+      "MJD8DS",
+      "MM8GSW"
+    ],
+    "VOLKSWAGEN": [
+      "IAW",
+      "IAW 4HV_4GV",
+      "IAW1AV",
+      "IAW4AV",
+      "IAW4CV",
+      "IAW4EV",
+      "IAW4HV",
+      "IAW4LV-4MV",
+      "IAW4TV",
+      "MJD6F3"
+    ],
+    "AUDI": [
+      "IAW4MV"
+    ],
+    "SEAT": [
+      "IAW",
+      "IAW4AV",
+      "IAW4HV-4GV",
+      "IAW4LV",
+      "IAW4MV",
+      "IAW4TV"
+    ],
+    "SKODA": [
+      "IAW4HV",
+      "IAW4MV",
+      "IAW4TV"
+    ],
+    "CUPRA": [
+      "IAW4MV"
+    ],
+    "PORSCHE": [
+      "IAW4MV"
+    ],
+    "LAMBORGHINI": [
+      "IAW4MV"
+    ],
+    "BENTLEY": [
+      "IAW4MV"
+    ]
+  }
+}
