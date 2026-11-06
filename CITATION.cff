@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Magneti Marelli (MJD / 8F3 / 9DF / MM) ECU Calibration Software — MJD6, MJ8DF, MJ8F3, MJ9DF, MM8GMF, MM9GF & IAW for Fiat, Jeep, Alfa & PSA (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/magneti-marelli-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/magneti-marelli-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
