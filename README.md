@@ -1,10 +1,10 @@
-# Magneti Marelli (MJD / 8F3 / 9DF / MM) ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Magneti Marelli (MJD / 8F3 / 9DF / MM) ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Magneti%20Marelli%20(MJD%20%2F%208F3%20%2F%209DF%20%2F%20MM)-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/magneti-marelli-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/magneti-marelli-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/magneti-marelli-tuning-software)
 
-**Magneti Marelli (MJD / 8F3 / 9DF / MM)** is Magneti Marelli diesel & petrol ECU family (MJD6, MJ8DF, MJ8F3, MJ9DF, MM8GMF, MM9GF, IAW) for Fiat, Alfa Romeo, Jeep, PSA & Opel. **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Magneti Marelli (MJD / 8F3 / 9DF / MM) readouts**.
+**Magneti Marelli (MJD / 8F3 / 9DF / MM)** is Magneti Marelli diesel & petrol ECU family (MJD6, MJ8DF, MJ8F3, MJ9DF, MM8GMF, MM9GF, IAW) for Fiat, Alfa Romeo, Jeep, PSA & Opel. **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Magneti Marelli (MJD / 8F3 / 9DF / MM) readouts**.
 
 ## 📊 Live Magneti Marelli (MJD / 8F3 / 9DF / MM) Variants Covered Across Brands
 
