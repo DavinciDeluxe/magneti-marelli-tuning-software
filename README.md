@@ -17,14 +17,14 @@
 | **JEEP** | 14 | `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5SF`, `MJ8DF`, `MJ9DF`, `MJD6F` … |
 | **CHRYSLER** | 11 | `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5SF`, `MJ8DF`, `MJ9DF`, `MJD6F` … |
 | **RAM** | 11 | `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5SF`, `MJ8DF`, `MJ9DF`, `MJD6F` … |
-| **VOLKSWAGEN** | 10 | `IAW`, `IAW 4HV_4GV`, `IAW1AV`, `IAW4AV`, `IAW4CV`, `IAW4EV`, `IAW4HV`, `IAW4LV-4MV` … |
+| **PEUGEOT** | 10 | `IAW`, `IAW1AP.41`, `IAW48P2`, `IAW6`, `IAW6LP`, `IAW6LP3.11`, `IAW6LPB`, `MJ8` … |
+| **VOLKSWAGEN** | 10 | `IAW`, `IAW1AV`, `IAW4AV`, `IAW4CV`, `IAW4EV`, `IAW4HV-4GV`, `IAW4LV-4MV`, `IAW4TV` … |
 | **ABARTH** | 9 | `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5SF`, `MJD6F3`, `MJD6O2-3`, `MM8GMF` … |
-| **PEUGEOT** | 9 | `IAW`, `IAW48P2`, `IAW6`, `IAW6LP`, `IAW6LP1_A`, `IAW6LPB`, `MJ8`, `MJ8DFH` … |
 | **CITROËN** | 8 | `IAW48P`, `IAW48P.80`, `IAW48P2`, `IAW48P2.7H`, `IAW6`, `IAW6LP`, `MJ8`, `MJ8F3H` |
 | **SEAT** | 6 | `IAW`, `IAW4AV`, `IAW4HV-4GV`, `IAW4LV`, `IAW4MV`, `IAW4TV` |
 | **SUZUKI** | 5 | `MJD6`, `MJD602`, `MJD6JO`, `MJD8DS`, `MM8GSW` |
+| **SKODA** | 5 | `IAW4HV`, `IAW4LV`, `IAW4MV`, `IAW4TV`, `IAW7GV` |
 | **CHEVROLET** | 4 | `9GF`, `MJ8DF`, `MJD6F3`, `MJD6O2-3` |
-| **SKODA** | 4 | `IAW4HV`, `IAW4LV`, `IAW4MV`, `IAW4TV` |
 | **VAUXHALL** | 3 | `MJ8DF`, `MJD6F3`, `MJD6O2-3` |
 | **FORD** | 2 | `IAW5SF`, `MJD6F3` |
 | **DS** | 2 | `IAW48P2`, `MJ8` |
@@ -34,7 +34,6 @@
 | **PORSCHE** | 2 | `IAW4LV`, `IAW4MV` |
 | **LAMBORGHINI** | 2 | `IAW4LV`, `IAW4MV` |
 | **BENTLEY** | 2 | `IAW4LV`, `IAW4MV` |
-| **MITSUBISHI** | 1 | `MM9O` |
 
 👉 **[Open the full Magneti Marelli (MJD / 8F3 / 9DF / MM) guide & test your file free at https://www.davincideluxe.fr/magneti-marelli-tuning-software →](https://www.davincideluxe.fr/magneti-marelli-tuning-software)**
 
