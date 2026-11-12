@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/magneti-marelli-tuning-software",
     "https://www.aesoftech.eu/magneti-marelli-tuning-software"
   ],
-  "matched_variants_count": 194,
+  "matched_variants_count": 195,
   "brands": {
     "FIAT": [
       "8F3.B1",
@@ -143,9 +143,6 @@
       "IAW5SF",
       "MJD6F3"
     ],
-    "MITSUBISHI": [
-      "MM9O"
-    ],
     "OPEL": [
       "MJ8DF",
       "MJ8F3H",
@@ -178,10 +175,11 @@
     ],
     "PEUGEOT": [
       "IAW",
+      "IAW1AP.41",
       "IAW48P2",
       "IAW6",
       "IAW6LP",
-      "IAW6LP1_A",
+      "IAW6LP3.11",
       "IAW6LPB",
       "MJ8",
       "MJ8DFH",
@@ -214,14 +212,14 @@
     ],
     "VOLKSWAGEN": [
       "IAW",
-      "IAW 4HV_4GV",
       "IAW1AV",
       "IAW4AV",
       "IAW4CV",
       "IAW4EV",
-      "IAW4HV",
+      "IAW4HV-4GV",
       "IAW4LV-4MV",
       "IAW4TV",
+      "IAW7GV",
       "MJD6F3"
     ],
     "AUDI": [
@@ -240,7 +238,8 @@
       "IAW4HV",
       "IAW4LV",
       "IAW4MV",
-      "IAW4TV"
+      "IAW4TV",
+      "IAW7GV"
     ],
     "CUPRA": [
       "IAW4LV",
