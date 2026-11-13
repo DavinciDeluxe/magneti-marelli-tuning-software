@@ -12,8 +12,18 @@
     "https://www.davincideluxe.it/magneti-marelli-tuning-software",
     "https://www.aesoftech.eu/magneti-marelli-tuning-software"
   ],
-  "matched_variants_count": 195,
+  "matched_variants_count": 237,
   "brands": {
+    "BMW": [
+      "MJDC261A",
+      "MJDC262A",
+      "MJDTC"
+    ],
+    "MINI": [
+      "MJDC261A",
+      "MJDC262A",
+      "MJDTC"
+    ],
     "FIAT": [
       "8F3.B1",
       "9DF",
@@ -43,6 +53,7 @@
       "MJD8F3.GH",
       "MJD9",
       "MJD9DF",
+      "MJDYBIEJA",
       "MM8GMF",
       "MM8GMK",
       "MM8GMW",
@@ -66,6 +77,7 @@
       "MJD6O2-3",
       "MJD8",
       "MJD8F2.A3",
+      "MJDYBIEJA",
       "MM8GMF",
       "MM8GMK",
       "MM9GFH"
@@ -83,6 +95,7 @@
       "MJD6F3",
       "MJD6JF",
       "MJD6O2-3",
+      "MJDYBIEJA",
       "MM8GMF",
       "MM8GSW"
     ],
@@ -97,6 +110,7 @@
       "MJD6F",
       "MJD6F3",
       "MJD6O2-3",
+      "MJDYBIEJA",
       "MM8GMF",
       "MM8GMK",
       "MM8GML",
@@ -110,6 +124,7 @@
       "IAW5SF",
       "MJD6F3",
       "MJD6O2-3",
+      "MJDYBIEJA",
       "MM8GMF",
       "MM8GMK"
     ],
@@ -124,6 +139,7 @@
       "MJD6F",
       "MJD6F3",
       "MJD6O2-3",
+      "MJDYBIEJA",
       "MM8GMF"
     ],
     "RAM": [
@@ -137,6 +153,7 @@
       "MJD6F",
       "MJD6F3",
       "MJD6O2-3",
+      "MJDYBIEJA",
       "MM8GMF"
     ],
     "FORD": [
@@ -165,13 +182,37 @@
     "CHEVROLET": [
       "9GF",
       "MJ8DF",
+      "MJ8F3H",
+      "MJ9DFH",
+      "MJD",
+      "MJD6",
+      "MJD602",
+      "MJD602.A6",
+      "MJD602.C1",
+      "MJD602.M1",
+      "MJD603",
+      "MJD603.S3",
       "MJD6F3",
-      "MJD6O2-3"
+      "MJD6JF",
+      "MJD6O2-3",
+      "MJD6O3.S3"
     ],
     "VAUXHALL": [
       "MJ8DF",
+      "MJ8F3H",
+      "MJ9DFH",
+      "MJD",
+      "MJD6",
+      "MJD602",
+      "MJD602.A6",
+      "MJD602.C1",
+      "MJD602.M1",
+      "MJD603",
+      "MJD603.S3",
       "MJD6F3",
-      "MJD6O2-3"
+      "MJD6JF",
+      "MJD6O2-3",
+      "MJD6O3.S3"
     ],
     "PEUGEOT": [
       "IAW",
@@ -224,7 +265,8 @@
     ],
     "AUDI": [
       "IAW4LV",
-      "IAW4MV"
+      "IAW4MV",
+      "IAW4TV"
     ],
     "SEAT": [
       "IAW",
@@ -243,19 +285,23 @@
     ],
     "CUPRA": [
       "IAW4LV",
-      "IAW4MV"
+      "IAW4MV",
+      "IAW4TV"
     ],
     "PORSCHE": [
       "IAW4LV",
-      "IAW4MV"
+      "IAW4MV",
+      "IAW4TV"
     ],
     "LAMBORGHINI": [
       "IAW4LV",
-      "IAW4MV"
+      "IAW4MV",
+      "IAW4TV"
     ],
     "BENTLEY": [
       "IAW4LV",
-      "IAW4MV"
+      "IAW4MV",
+      "IAW4TV"
     ]
   }
 }
