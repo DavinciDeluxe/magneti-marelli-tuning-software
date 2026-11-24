@@ -10,7 +10,7 @@
 
 | Brand | Magneti Marelli (MJD / 8F3 / 9DF / MM) Variants | Supported ECU Identifiers |
 | :--- | :---: | :--- |
-| **FIAT** | 35 | `8F3.B1`, `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5AF`, `IAW5NF`, `IAW5SF` … |
+| **FIAT** | 36 | `8F3.B1`, `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5AF`, `IAW5NF`, `IAW5SF` … |
 | **ALFA ROMEO** | 19 | `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5SF`, `MJ8DF`, `MJ8DF2`, `MJ8DFH` … |
 | **OPEL** | 17 | `MJ8DF`, `MJ8F3H`, `MJ9DFH`, `MJD`, `MJD6`, `MJD602`, `MJD602.A6`, `MJD602.C1` … |
 | **CHEVROLET** | 16 | `9GF`, `MJ8DF`, `MJ8F3H`, `MJ9DFH`, `MJD`, `MJD6`, `MJD602`, `MJD602.A6` … |
