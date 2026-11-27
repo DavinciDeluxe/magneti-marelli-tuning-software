@@ -14,6 +14,76 @@
   ],
   "matched_variants_count": 233,
   "brands": {
+    "PEUGEOT": [
+      "IAW",
+      "IAW1AP.41",
+      "IAW48P2",
+      "IAW6",
+      "IAW6LP",
+      "IAW6LP3.11",
+      "IAW6LPB",
+      "MJ8",
+      "MJ8DFH",
+      "MJ8F3H"
+    ],
+    "ABARTH": [
+      "9DF",
+      "9GF",
+      "IAW4AF-59F",
+      "IAW4SF",
+      "IAW5SF",
+      "MJD6F3",
+      "MJD6O2-3",
+      "MJDYBIEJA",
+      "MM8GMF",
+      "MM8GMK"
+    ],
+    "ALFA ROMEO": [
+      "9DF",
+      "9GF",
+      "IAW4AF-59F",
+      "IAW4SF",
+      "IAW5SF",
+      "MJ8DF",
+      "MJ8DF2",
+      "MJ8DFH",
+      "MJ8F3H",
+      "MJ9DF",
+      "MJD6F",
+      "MJD6F3",
+      "MJD6O2-3",
+      "MJD8",
+      "MJD8F2.A3",
+      "MJDYBIEJA",
+      "MM8GMF",
+      "MM8GMK",
+      "MM9GFH"
+    ],
+    "AUDI": [
+      "IAW4LV",
+      "IAW4MV",
+      "IAW4TV",
+      "MJD6F3"
+    ],
+    "OPEL": [
+      "MJ8DF",
+      "MJ8F3H",
+      "MJ9DFH",
+      "MJD",
+      "MJD6",
+      "MJD602",
+      "MJD602.A6",
+      "MJD602.C1",
+      "MJD602.M1",
+      "MJD603",
+      "MJD603.S3",
+      "MJD603.SA",
+      "MJD6F3",
+      "MJD6JF",
+      "MJD6O2-3",
+      "MJD6O3.S3",
+      "MJD8DF"
+    ],
     "BMW": [
       "MJDC261A",
       "MJDC262A",
@@ -23,6 +93,98 @@
       "MJDC261A",
       "MJDC262A",
       "MJDTC"
+    ],
+    "BENTLEY": [
+      "IAW4LV",
+      "IAW4MV",
+      "IAW4TV",
+      "MJD6F3"
+    ],
+    "CHEVROLET": [
+      "9GF",
+      "MJ8DF",
+      "MJ8F3H",
+      "MJ9DFH",
+      "MJD",
+      "MJD6",
+      "MJD602",
+      "MJD602.A6",
+      "MJD602.C1",
+      "MJD602.M1",
+      "MJD603",
+      "MJD603.S3",
+      "MJD6F3",
+      "MJD6JF",
+      "MJD6O2-3",
+      "MJD6O3.S3"
+    ],
+    "CITROËN": [
+      "IAW48P",
+      "IAW48P.80",
+      "IAW48P2",
+      "IAW48P2.7H",
+      "IAW6",
+      "IAW6LP",
+      "MJ8",
+      "MJ8F3H"
+    ],
+    "CHRYSLER": [
+      "9DF",
+      "9GF",
+      "IAW4AF-59F",
+      "IAW4SF",
+      "IAW5SF",
+      "MJ8DF",
+      "MJ9DF",
+      "MJD6F",
+      "MJD6F3",
+      "MJD6O2-3",
+      "MJDYBIEJA",
+      "MM8GMF"
+    ],
+    "JEEP": [
+      "9DF",
+      "9GF",
+      "IAW4AF-59F",
+      "IAW4SF",
+      "IAW5SF",
+      "MJ8DF",
+      "MJ9DF",
+      "MJD6F",
+      "MJD6F3",
+      "MJD6O2-3",
+      "MJDYBIEJA",
+      "MM8GMF",
+      "MM8GMK",
+      "MM8GML",
+      "MM9GFH"
+    ],
+    "CUPRA": [
+      "IAW4LV",
+      "IAW4MV",
+      "IAW4TV",
+      "MJD6F3"
+    ],
+    "VAUXHALL": [
+      "MJ8DF",
+      "MJ8F3H",
+      "MJ9DFH",
+      "MJD",
+      "MJD6",
+      "MJD602",
+      "MJD602.A6",
+      "MJD602.C1",
+      "MJD602.M1",
+      "MJD603",
+      "MJD603.S3",
+      "MJD6F3",
+      "MJD6JF",
+      "MJD6O2-3",
+      "MJD6O3.S3"
+    ],
+    "DS": [
+      "IAW48P2",
+      "MJ8"
     ],
     "FIAT": [
       "8F3.B1",
@@ -62,27 +224,6 @@
       "MM8GSW",
       "MM9GFH"
     ],
-    "ALFA ROMEO": [
-      "9DF",
-      "9GF",
-      "IAW4AF-59F",
-      "IAW4SF",
-      "IAW5SF",
-      "MJ8DF",
-      "MJ8DF2",
-      "MJ8DFH",
-      "MJ8F3H",
-      "MJ9DF",
-      "MJD6F",
-      "MJD6F3",
-      "MJD6O2-3",
-      "MJD8",
-      "MJD8F2.A3",
-      "MJDYBIEJA",
-      "MM8GMF",
-      "MM8GMK",
-      "MM9GFH"
-    ],
     "LANCIA": [
       "9DF",
       "9GF",
@@ -100,161 +241,25 @@
       "MM8GMF",
       "MM8GSW"
     ],
-    "JEEP": [
-      "9DF",
-      "9GF",
-      "IAW4AF-59F",
-      "IAW4SF",
-      "IAW5SF",
-      "MJ8DF",
-      "MJ9DF",
-      "MJD6F",
-      "MJD6F3",
-      "MJD6O2-3",
-      "MJDYBIEJA",
-      "MM8GMF",
-      "MM8GMK",
-      "MM8GML",
-      "MM9GFH"
-    ],
-    "ABARTH": [
-      "9DF",
-      "9GF",
-      "IAW4AF-59F",
-      "IAW4SF",
-      "IAW5SF",
-      "MJD6F3",
-      "MJD6O2-3",
-      "MJDYBIEJA",
-      "MM8GMF",
-      "MM8GMK"
-    ],
-    "CHRYSLER": [
-      "9DF",
-      "9GF",
-      "IAW4AF-59F",
-      "IAW4SF",
-      "IAW5SF",
-      "MJ8DF",
-      "MJ9DF",
-      "MJD6F",
-      "MJD6F3",
-      "MJD6O2-3",
-      "MJDYBIEJA",
-      "MM8GMF"
-    ],
     "FORD": [
       "IAW5SF",
       "MJD6F3"
     ],
-    "OPEL": [
-      "MJ8DF",
-      "MJ8F3H",
-      "MJ9DFH",
-      "MJD",
-      "MJD6",
-      "MJD602",
-      "MJD602.A6",
-      "MJD602.C1",
-      "MJD602.M1",
-      "MJD603",
-      "MJD603.S3",
-      "MJD603.SA",
-      "MJD6F3",
-      "MJD6JF",
-      "MJD6O2-3",
-      "MJD6O3.S3",
-      "MJD8DF"
-    ],
-    "CHEVROLET": [
-      "9GF",
-      "MJ8DF",
-      "MJ8F3H",
-      "MJ9DFH",
-      "MJD",
-      "MJD6",
-      "MJD602",
-      "MJD602.A6",
-      "MJD602.C1",
-      "MJD602.M1",
-      "MJD603",
-      "MJD603.S3",
-      "MJD6F3",
-      "MJD6JF",
-      "MJD6O2-3",
-      "MJD6O3.S3"
-    ],
-    "VAUXHALL": [
-      "MJ8DF",
-      "MJ8F3H",
-      "MJ9DFH",
-      "MJD",
-      "MJD6",
-      "MJD602",
-      "MJD602.A6",
-      "MJD602.C1",
-      "MJD602.M1",
-      "MJD603",
-      "MJD603.S3",
-      "MJD6F3",
-      "MJD6JF",
-      "MJD6O2-3",
-      "MJD6O3.S3"
-    ],
-    "PEUGEOT": [
-      "IAW",
-      "IAW1AP.41",
-      "IAW48P2",
-      "IAW6",
-      "IAW6LP",
-      "IAW6LP3.11",
-      "IAW6LPB",
-      "MJ8",
-      "MJ8DFH",
-      "MJ8F3H"
-    ],
-    "CITROËN": [
-      "IAW48P",
-      "IAW48P.80",
-      "IAW48P2",
-      "IAW48P2.7H",
-      "IAW6",
-      "IAW6LP",
-      "MJ8",
-      "MJ8F3H"
-    ],
-    "DS": [
-      "IAW48P2",
-      "MJ8"
-    ],
-    "RENAULT": [
-      "IAW5",
-      "IAW5NR"
-    ],
-    "SUZUKI": [
-      "MJD6",
-      "MJD602",
-      "MJD6JO",
-      "MJD8DS",
-      "MM8GSW"
-    ],
-    "VOLKSWAGEN": [
-      "IAW",
-      "IAW1AV",
-      "IAW4AV",
-      "IAW4CV",
-      "IAW4EV",
-      "IAW4HV-4GV",
-      "IAW4LV-4MV",
-      "IAW4TV",
-      "IAW7GV",
-      "MJD6F3"
-    ],
-    "AUDI": [
+    "LAMBORGHINI": [
       "IAW4LV",
       "IAW4MV",
       "IAW4TV",
       "MJD6F3"
+    ],
+    "PORSCHE": [
+      "IAW4LV",
+      "IAW4MV",
+      "IAW4TV",
+      "MJD6F3"
+    ],
+    "RENAULT": [
+      "IAW5",
+      "IAW5NR"
     ],
     "SEAT": [
       "IAW",
@@ -273,28 +278,23 @@
       "IAW7GV",
       "MJD6F3"
     ],
-    "CUPRA": [
-      "IAW4LV",
-      "IAW4MV",
-      "IAW4TV",
-      "MJD6F3"
+    "SUZUKI": [
+      "MJD6",
+      "MJD602",
+      "MJD6JO",
+      "MJD8DS",
+      "MM8GSW"
     ],
-    "PORSCHE": [
-      "IAW4LV",
-      "IAW4MV",
+    "VOLKSWAGEN": [
+      "IAW",
+      "IAW1AV",
+      "IAW4AV",
+      "IAW4CV",
+      "IAW4EV",
+      "IAW4HV-4GV",
+      "IAW4LV-4MV",
       "IAW4TV",
-      "MJD6F3"
-    ],
-    "LAMBORGHINI": [
-      "IAW4LV",
-      "IAW4MV",
-      "IAW4TV",
-      "MJD6F3"
-    ],
-    "BENTLEY": [
-      "IAW4LV",
-      "IAW4MV",
-      "IAW4TV",
+      "IAW7GV",
       "MJD6F3"
     ]
   }
