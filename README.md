@@ -14,26 +14,26 @@
 | **ALFA ROMEO** | 19 | `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5SF`, `MJ8DF`, `MJ8DF2`, `MJ8DFH` … |
 | **OPEL** | 17 | `MJ8DF`, `MJ8F3H`, `MJ9DFH`, `MJD`, `MJD6`, `MJD602`, `MJD602.A6`, `MJD602.C1` … |
 | **CHEVROLET** | 16 | `9GF`, `MJ8DF`, `MJ8F3H`, `MJ9DFH`, `MJD`, `MJD6`, `MJD602`, `MJD602.A6` … |
-| **LANCIA** | 15 | `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5SF`, `MJ8DF`, `MJ8DFH`, `MJ9DF` … |
 | **JEEP** | 15 | `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5SF`, `MJ8DF`, `MJ9DF`, `MJD6F` … |
 | **VAUXHALL** | 15 | `MJ8DF`, `MJ8F3H`, `MJ9DFH`, `MJD`, `MJD6`, `MJD602`, `MJD602.A6`, `MJD602.C1` … |
+| **LANCIA** | 15 | `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5SF`, `MJ8DF`, `MJ8DFH`, `MJ9DF` … |
 | **CHRYSLER** | 12 | `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5SF`, `MJ8DF`, `MJ9DF`, `MJD6F` … |
-| **ABARTH** | 10 | `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5SF`, `MJD6F3`, `MJD6O2-3`, `MJDYBIEJA` … |
 | **PEUGEOT** | 10 | `IAW`, `IAW1AP.41`, `IAW48P2`, `IAW6`, `IAW6LP`, `IAW6LP3.11`, `IAW6LPB`, `MJ8` … |
+| **ABARTH** | 10 | `9DF`, `9GF`, `IAW4AF-59F`, `IAW4SF`, `IAW5SF`, `MJD6F3`, `MJD6O2-3`, `MJDYBIEJA` … |
 | **VOLKSWAGEN** | 10 | `IAW`, `IAW1AV`, `IAW4AV`, `IAW4CV`, `IAW4EV`, `IAW4HV-4GV`, `IAW4LV-4MV`, `IAW4TV` … |
 | **CITROËN** | 8 | `IAW48P`, `IAW48P.80`, `IAW48P2`, `IAW48P2.7H`, `IAW6`, `IAW6LP`, `MJ8`, `MJ8F3H` |
 | **SEAT** | 7 | `IAW`, `IAW4AV`, `IAW4HV-4GV`, `IAW4LV`, `IAW4MV`, `IAW4TV`, `MJD6F3` |
 | **SKODA** | 6 | `IAW4HV`, `IAW4LV`, `IAW4MV`, `IAW4TV`, `IAW7GV`, `MJD6F3` |
 | **SUZUKI** | 5 | `MJD6`, `MJD602`, `MJD6JO`, `MJD8DS`, `MM8GSW` |
 | **AUDI** | 4 | `IAW4LV`, `IAW4MV`, `IAW4TV`, `MJD6F3` |
-| **CUPRA** | 4 | `IAW4LV`, `IAW4MV`, `IAW4TV`, `MJD6F3` |
-| **PORSCHE** | 4 | `IAW4LV`, `IAW4MV`, `IAW4TV`, `MJD6F3` |
-| **LAMBORGHINI** | 4 | `IAW4LV`, `IAW4MV`, `IAW4TV`, `MJD6F3` |
 | **BENTLEY** | 4 | `IAW4LV`, `IAW4MV`, `IAW4TV`, `MJD6F3` |
+| **CUPRA** | 4 | `IAW4LV`, `IAW4MV`, `IAW4TV`, `MJD6F3` |
+| **LAMBORGHINI** | 4 | `IAW4LV`, `IAW4MV`, `IAW4TV`, `MJD6F3` |
+| **PORSCHE** | 4 | `IAW4LV`, `IAW4MV`, `IAW4TV`, `MJD6F3` |
 | **BMW** | 3 | `MJDC261A`, `MJDC262A`, `MJDTC` |
 | **MINI** | 3 | `MJDC261A`, `MJDC262A`, `MJDTC` |
-| **FORD** | 2 | `IAW5SF`, `MJD6F3` |
 | **DS** | 2 | `IAW48P2`, `MJ8` |
+| **FORD** | 2 | `IAW5SF`, `MJD6F3` |
 | **RENAULT** | 2 | `IAW5`, `IAW5NR` |
 
 👉 **[Open the full Magneti Marelli (MJD / 8F3 / 9DF / MM) guide & test your file free at https://www.davincideluxe.fr/magneti-marelli-tuning-software →](https://www.davincideluxe.fr/magneti-marelli-tuning-software)**
